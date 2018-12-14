@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Binary Robot</string>
+    <string name="assets_prompt">Choose a asset</string>
+    <string name="investment_prompt">Choose a investment</string>
+
+    <string-array name="assets_arrays">
+        <item>EUR/USD</item>
+        <item>AUD/JPY</item>
+        <item>AUD/USD</item>
+        <item>EUR/AUD</item>
+        <item>EUR/CAD</item>
+        <item>EUR/CHF</item>
+        <item>GBP/AUD</item>
+        <item>GBP/JPY</item>
+        <item>GBP/USD</item>
+        <item>USD/CAD</item>
+        <item>USD/CHF</item>
+    </string-array>
+</resources>
